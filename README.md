@@ -1,7 +1,7 @@
 ### About Me:
 
-💼 <&nbsp> Frontend Developer, Designer <br>
-🇦🇹 <&nbsp> based in St. Pölten, Austria <br>
+💼 &nbsp; Frontend Developer, Designer <br>
+🇦🇹 &nbsp; based in St. Pölten, Austria <br>
 <br />
 
 ### Languages and Tools:
