@@ -1,6 +1,7 @@
 ### About Me:
 
-💼 &nbsp; Frontend Developer, Designer <br>
+💼 &nbsp; Web Developer, Designer, Entrepreneur <br>
+🖥️ &nbsp; Content Creator @ youtube.com/@lukas.webdev <br>
 🇦🇹 &nbsp; based in St. Pölten, Austria <br>
 <br />
 
