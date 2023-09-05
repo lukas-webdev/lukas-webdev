@@ -1,7 +1,7 @@
 ### About Me:
 
 💼 &nbsp; Web Developer, Designer, Entrepreneur <br>
-🖥️ &nbsp; Content Creator @https://www.youtube.com/@lukas.webdev <br>
+🖥️ &nbsp; Content Creator @<a href="https://www.youtube.com/@lukas.webdev">lukas.webdev</a><br>
 🇦🇹 &nbsp; based in St. Pölten, Austria <br>
 <br />
 
